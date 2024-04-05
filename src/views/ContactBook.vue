@@ -35,7 +35,7 @@
                 </button>
             </div>
         </div>
-<!--  -->
+
         <div class="mt-3 col-md-6">
             <div v-if="activeContact">
                 <h4>
