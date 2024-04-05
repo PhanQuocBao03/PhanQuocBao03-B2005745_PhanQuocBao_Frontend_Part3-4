@@ -27,6 +27,7 @@ const routes = [
         component: () => import("@/views/ContactAdd.vue"),
         props: true
     },
+    // 
 
     {
         path: "/login",
