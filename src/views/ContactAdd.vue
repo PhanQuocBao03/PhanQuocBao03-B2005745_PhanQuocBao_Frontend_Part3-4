@@ -16,7 +16,7 @@
         components: {
             ContactForm,
         },
-
+// 
         data() {
             return {
                 contact: {},

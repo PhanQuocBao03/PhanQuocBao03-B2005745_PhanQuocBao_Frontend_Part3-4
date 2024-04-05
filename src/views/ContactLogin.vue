@@ -8,7 +8,7 @@
         <p>{{ message }}</p>
     </div>
 </template>
-
+<!--  -->
 <script>
     import LoginForm from '@/components/LoginForm.vue';
     import ContactService from "@/services/contact.service";
